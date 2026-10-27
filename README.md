@@ -47,7 +47,6 @@
 ## ▶️ Como rodar
 
 ```bash
-cd jogo-dados
 npm install
 npx expo start
 ```
